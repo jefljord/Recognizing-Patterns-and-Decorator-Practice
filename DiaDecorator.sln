@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiaDecorator", "DiaDecorator\DiaDecorator.csproj", "{006356A7-6E8A-401E-A5B3-E1E8070873E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{006356A7-6E8A-401E-A5B3-E1E8070873E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{006356A7-6E8A-401E-A5B3-E1E8070873E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{006356A7-6E8A-401E-A5B3-E1E8070873E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{006356A7-6E8A-401E-A5B3-E1E8070873E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB4CB624-E93B-43FD-9F2E-E22036059758}
+	EndGlobalSection
+EndGlobal
